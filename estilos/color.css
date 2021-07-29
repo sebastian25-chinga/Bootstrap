@@ -1,0 +1,23 @@
+#header{
+    background-color: #8DD64F;
+    color: white;
+}
+
+#content{
+    background-color: #1DACD6;
+    color: white;
+}
+
+#main{
+    background-color: white;
+}
+
+#aside{
+    background-color: #C8C8C8;
+    color: blue;
+}
+
+#footer{
+    background-color: black;
+    color: white;
+}
